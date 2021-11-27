@@ -1,5 +1,5 @@
 module.exports = {
   images: {
-    domains: ['akinorisahoda.com', 'file.akinorisahoda.com', 'secure.gravatar.com']
+    domains: ['akiblog10.com', 'file.akinorisahoda.com', 'secure.gravatar.com']
   },
 }
